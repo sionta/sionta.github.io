@@ -1,4 +1,1 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://sionta.github.io/sitemap.xml
