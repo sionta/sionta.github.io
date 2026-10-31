@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" role="img" aria-label="Tiga layout partisi boot: partisi recovery terpisah, recovery-as-boot, dan layout yang memakai init_boot">
+  <rect width="1000" height="560" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">TIGA LAYOUT PARTISI BOOT</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="100" width="280" height="70" fill="#000"/>
+  <text x="70" y="130" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#fff">Partisi recovery</text>
+  <text x="70" y="156" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#fff">terpisah</text>
+
+  <rect x="360" y="100" width="280" height="70" fill="#000"/>
+  <text x="380" y="143" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#fff">Recovery-as-boot</text>
+
+  <rect x="670" y="100" width="280" height="70" fill="#000"/>
+  <text x="690" y="143" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#fff">Memakai init_boot</text>
+
+  <rect x="50" y="190" width="280" height="80" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="216" font-family="Consolas, monospace" font-size="20" fill="#000">boot</text>
+  <text x="70" y="246" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">kernel + ramdisk</text>
+
+  <rect x="50" y="280" width="280" height="80" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="70" y="306" font-family="Consolas, monospace" font-size="20" fill="#000">recovery</text>
+  <text x="70" y="336" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">recovery</text>
+
+  <rect x="50" y="370" width="280" height="80" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="396" font-family="Consolas, monospace" font-size="20" fill="#000">vendor_boot</text>
+  <text x="70" y="426" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">komponen vendor</text>
+
+  <rect x="360" y="190" width="280" height="80" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="380" y="216" font-family="Consolas, monospace" font-size="20" fill="#000">boot</text>
+  <text x="380" y="242" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">kernel, ramdisk,</text>
+  <text x="380" y="262" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">+ recovery</text>
+
+  <rect x="360" y="280" width="280" height="80" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="380" y="326" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">tanpa partisi</text>
+  <text x="380" y="346" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">recovery terpisah</text>
+
+  <rect x="360" y="370" width="280" height="80" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="380" y="396" font-family="Consolas, monospace" font-size="20" fill="#000">vendor_boot</text>
+  <text x="380" y="426" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">komponen vendor</text>
+
+  <rect x="670" y="190" width="280" height="80" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="690" y="216" font-family="Consolas, monospace" font-size="20" fill="#000">boot</text>
+  <text x="690" y="246" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">kernel</text>
+
+  <rect x="670" y="280" width="280" height="80" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="690" y="306" font-family="Consolas, monospace" font-size="20" fill="#000">init_boot</text>
+  <text x="690" y="336" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">generic ramdisk</text>
+
+  <rect x="670" y="370" width="280" height="80" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="690" y="396" font-family="Consolas, monospace" font-size="20" fill="#000">vendor_boot</text>
+  <text x="690" y="426" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">komponen vendor</text>
+
+  <rect x="50" y="480" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="518" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Layout nyata ditentukan produsen, codename, dan firmware.</text>
+</svg>

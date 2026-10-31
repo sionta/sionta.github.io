@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-label="Sembilan langkah umum instalasi custom ROM melalui recovery: verifikasi, backup, masuk recovery, wipe sesuai instruksi, instal ROM, add-on, langkah lanjutan, reboot, verifikasi first boot">
+  <rect width="1000" height="520" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">ALUR INSTALASI VIA RECOVERY</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="100" width="280" height="100" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">01</text>
+  <text x="70" y="162" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Verifikasi codename</text>
+  <text x="70" y="186" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">dan firmware</text>
+
+  <rect x="360" y="100" width="280" height="100" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="380" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">02</text>
+  <text x="380" y="162" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Backup data</text>
+  <text x="380" y="186" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">dan verifikasi</text>
+
+  <rect x="670" y="100" width="280" height="100" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="690" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">03</text>
+  <text x="690" y="162" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Masuk recovery</text>
+  <text x="690" y="186" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">sesuai panduan</text>
+
+  <rect x="50" y="220" width="280" height="100" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="254" font-family="Consolas, monospace" font-size="22" fill="#e30613">04</text>
+  <text x="70" y="282" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Wipe hanya</text>
+  <text x="70" y="306" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">yang diminta</text>
+
+  <rect x="360" y="220" width="280" height="100" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="380" y="254" font-family="Consolas, monospace" font-size="22" fill="#e30613">05</text>
+  <text x="380" y="294" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Instal ROM</text>
+
+  <rect x="670" y="220" width="280" height="100" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="690" y="254" font-family="Consolas, monospace" font-size="22" fill="#e30613">06</text>
+  <text x="690" y="282" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Instal add-on</text>
+  <text x="690" y="306" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">yang dianjurkan</text>
+
+  <rect x="50" y="340" width="280" height="100" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="374" font-family="Consolas, monospace" font-size="22" fill="#e30613">07</text>
+  <text x="70" y="402" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Ikuti langkah</text>
+  <text x="70" y="426" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">lanjutan ROM</text>
+
+  <rect x="360" y="340" width="280" height="100" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="380" y="374" font-family="Consolas, monospace" font-size="22" fill="#e30613">08</text>
+  <text x="380" y="414" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Reboot</text>
+
+  <rect x="670" y="340" width="280" height="100" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="690" y="374" font-family="Consolas, monospace" font-size="22" fill="#e30613">09</text>
+  <text x="690" y="402" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Verifikasi</text>
+  <text x="690" y="426" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">first boot</text>
+
+  <rect x="50" y="460" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="498" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Urutan umum, bukan instruksi universal.</text>
+</svg>

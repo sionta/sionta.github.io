@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 530" role="img" aria-label="Empat lapisan mode pemulihan dari yang paling awal: EDL atau Download Mode dengan alat vendor, bootloader dengan fastboot, recovery, dan Android dengan adb">
+  <rect width="1000" height="530" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">MODE PEMULIHAN DARI LAPISAN PALING AWAL</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <text x="50" y="92" font-family="Consolas, monospace" font-size="14" letter-spacing="1" fill="#000">TAHAP</text>
+  <text x="670" y="92" font-family="Consolas, monospace" font-size="14" letter-spacing="1" fill="#000">AKSES</text>
+  <rect x="50" y="100" width="600" height="70" fill="#000"/>
+  <text x="72" y="144" font-family="Consolas, monospace" font-size="22" fill="#e30613">01</text>
+  <text x="118" y="144" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#fff">EDL / Download Mode</text>
+  <rect x="670" y="100" width="280" height="70" fill="#000"/>
+  <text x="692" y="144" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#fff">Alat vendor + otorisasi</text>
+
+  <rect x="50" y="180" width="600" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="224" font-family="Consolas, monospace" font-size="22" fill="#e30613">02</text>
+  <text x="118" y="224" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Bootloader / Fastboot</text>
+  <rect x="670" y="180" width="280" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="692" y="224" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">fastboot</text>
+
+  <rect x="50" y="260" width="600" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="304" font-family="Consolas, monospace" font-size="22" fill="#e30613">03</text>
+  <text x="118" y="304" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Recovery</text>
+  <rect x="670" y="260" width="280" height="70" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="692" y="304" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">recovery</text>
+
+  <rect x="50" y="340" width="600" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="384" font-family="Consolas, monospace" font-size="22" fill="#e30613">04</text>
+  <text x="118" y="384" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Android</text>
+  <rect x="670" y="340" width="280" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="692" y="384" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">adb</text>
+
+  <rect x="50" y="450" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="488" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Semakin awal lapisannya, semakin besar kewenangan vendor.</text>
+</svg>

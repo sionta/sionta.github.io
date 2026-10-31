@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-label="Perbandingan urutan clean flash sepuluh langkah dan dirty flash sembilan langkah">
+  <rect width="1000" height="600" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">DUA URUTAN INSTALASI</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="100" width="430" height="400" fill="#fff" stroke="#000" stroke-width="2"/>
+  <rect x="50" y="100" width="430" height="50" fill="#000"/>
+  <text x="74" y="134" font-family="Helvetica, Arial, sans-serif" font-size="22" letter-spacing="1" fill="#fff">CLEAN FLASH</text>
+  <text x="74" y="182" font-family="Consolas, monospace" font-size="16" fill="#e30613">01</text>
+  <text x="112" y="182" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Baca dokumentasi ROM</text>
+  <text x="74" y="214" font-family="Consolas, monospace" font-size="16" fill="#e30613">02</text>
+  <text x="112" y="214" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Pastikan firmware sesuai</text>
+  <text x="74" y="246" font-family="Consolas, monospace" font-size="16" fill="#e30613">03</text>
+  <text x="112" y="246" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Backup dan verifikasi</text>
+  <text x="74" y="278" font-family="Consolas, monospace" font-size="16" fill="#e30613">04</text>
+  <text x="112" y="278" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Baca instruksi wipe</text>
+  <text x="74" y="310" font-family="Consolas, monospace" font-size="16" fill="#e30613">05</text>
+  <text x="112" y="310" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Jalankan wipe yang diminta</text>
+  <text x="74" y="342" font-family="Consolas, monospace" font-size="16" fill="#e30613">06</text>
+  <text x="112" y="342" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Instal ROM</text>
+  <text x="74" y="374" font-family="Consolas, monospace" font-size="16" fill="#e30613">07</text>
+  <text x="112" y="374" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Instal add-on bila ada</text>
+  <text x="74" y="406" font-family="Consolas, monospace" font-size="16" fill="#e30613">08</text>
+  <text x="112" y="406" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Jangan reboot sebelum selesai</text>
+  <text x="74" y="438" font-family="Consolas, monospace" font-size="16" fill="#e30613">09</text>
+  <text x="112" y="438" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Reboot dan setup awal</text>
+  <text x="74" y="470" font-family="Consolas, monospace" font-size="16" fill="#e30613">10</text>
+  <text x="112" y="470" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Verifikasi fungsi dasar</text>
+
+  <rect x="520" y="100" width="430" height="400" fill="#fff" stroke="#000" stroke-width="2"/>
+  <rect x="520" y="100" width="430" height="50" fill="#ffd400"/>
+  <text x="544" y="134" font-family="Helvetica, Arial, sans-serif" font-size="22" letter-spacing="1" fill="#000">DIRTY FLASH</text>
+  <text x="544" y="182" font-family="Consolas, monospace" font-size="16" fill="#e30613">01</text>
+  <text x="582" y="182" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Pastikan ROM masih sama</text>
+  <text x="544" y="214" font-family="Consolas, monospace" font-size="16" fill="#e30613">02</text>
+  <text x="582" y="214" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Maintainer mendukung dirty flash</text>
+  <text x="544" y="246" font-family="Consolas, monospace" font-size="16" fill="#e30613">03</text>
+  <text x="582" y="246" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Firmware tidak berubah</text>
+  <text x="544" y="278" font-family="Consolas, monospace" font-size="16" fill="#e30613">04</text>
+  <text x="582" y="278" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Buat backup lengkap</text>
+  <text x="544" y="310" font-family="Consolas, monospace" font-size="16" fill="#e30613">05</text>
+  <text x="582" y="310" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Masuk recovery</text>
+  <text x="544" y="342" font-family="Consolas, monospace" font-size="16" fill="#e30613">06</text>
+  <text x="582" y="342" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Instal ROM</text>
+  <text x="544" y="374" font-family="Consolas, monospace" font-size="16" fill="#e30613">07</text>
+  <text x="582" y="374" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Jangan reboot sebelum selesai</text>
+  <text x="544" y="406" font-family="Consolas, monospace" font-size="16" fill="#e30613">08</text>
+  <text x="582" y="406" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Reboot dan verifikasi</text>
+  <text x="544" y="438" font-family="Consolas, monospace" font-size="16" fill="#e30613">09</text>
+  <text x="582" y="438" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Gagal boot? Diagnosis dulu</text>
+
+  <rect x="50" y="520" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="558" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Ikuti istilah dan langkah pada panduan perangkat.</text>
+</svg>

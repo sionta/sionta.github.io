@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-label="Alur pemeriksaan dukungan: model dan codename, halaman resmi ROM, versi dan maintainer, firmware dasar, recovery resmi, lalu unduh">
+  <rect width="1000" height="520" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">ALUR PEMERIKSAAN DUKUNGAN</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="100" width="270" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="68" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">01</text>
+  <text x="68" y="174" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#000">Model dan</text>
+  <text x="68" y="204" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#000">codename</text>
+
+  <rect x="365" y="100" width="270" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="383" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">02</text>
+  <text x="383" y="174" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#000">Halaman resmi</text>
+  <text x="383" y="204" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#000">ROM</text>
+
+  <rect x="680" y="100" width="270" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="698" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">03</text>
+  <text x="698" y="174" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#000">Versi dan</text>
+  <text x="698" y="204" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#000">maintainer</text>
+
+  <rect x="50" y="250" width="270" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="68" y="284" font-family="Consolas, monospace" font-size="22" fill="#e30613">04</text>
+  <text x="68" y="320" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#000">Firmware dasar</text>
+  <text x="68" y="350" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">yang dibutuhkan</text>
+
+  <rect x="365" y="250" width="270" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="383" y="284" font-family="Consolas, monospace" font-size="22" fill="#e30613">05</text>
+  <text x="383" y="320" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#000">Recovery resmi</text>
+  <text x="383" y="350" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">dan metodenya</text>
+
+  <rect x="680" y="250" width="270" height="110" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="698" y="284" font-family="Consolas, monospace" font-size="22" fill="#e30613">06</text>
+  <text x="698" y="324" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#000">Unduh dari</text>
+  <text x="698" y="354" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#000">sumber resmi</text>
+
+  <rect x="50" y="420" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="458" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Ada yang tidak cocok? Berhenti, jangan unduh.</text>
+</svg>

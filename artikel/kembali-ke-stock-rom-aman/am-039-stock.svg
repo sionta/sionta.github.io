@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" role="img" aria-label="Delapan langkah aman kembali ke stock ROM: catat model dan region, periksa firmware, cari firmware resmi, periksa risiko downgrade, backup, pakai alat resmi, ikuti instruksi, verifikasi">
+  <rect width="1000" height="440" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">LANGKAH KEMBALI KE STOCK ROM</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="100" width="210" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">01</text>
+  <text x="70" y="178" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">Catat model,</text>
+  <text x="70" y="204" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">codename, region</text>
+
+  <rect x="280" y="100" width="210" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="300" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">02</text>
+  <text x="300" y="178" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">Periksa firmware</text>
+  <text x="300" y="204" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">saat ini</text>
+
+  <rect x="510" y="100" width="210" height="110" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="530" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">03</text>
+  <text x="530" y="178" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">Cari firmware</text>
+  <text x="530" y="204" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">resmi yang sesuai</text>
+
+  <rect x="740" y="100" width="210" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="760" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">04</text>
+  <text x="760" y="178" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">Periksa risiko</text>
+  <text x="760" y="204" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">downgrade</text>
+
+  <rect x="50" y="230" width="210" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="264" font-family="Consolas, monospace" font-size="22" fill="#e30613">05</text>
+  <text x="70" y="314" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">Backup data</text>
+
+  <rect x="280" y="230" width="210" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="300" y="264" font-family="Consolas, monospace" font-size="22" fill="#e30613">06</text>
+  <text x="300" y="308" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">Gunakan alat</text>
+  <text x="300" y="334" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">resmi vendor</text>
+
+  <rect x="510" y="230" width="210" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="530" y="264" font-family="Consolas, monospace" font-size="22" fill="#e30613">07</text>
+  <text x="530" y="308" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">Ikuti instruksi</text>
+  <text x="530" y="334" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">resmi</text>
+
+  <rect x="740" y="230" width="210" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="760" y="264" font-family="Consolas, monospace" font-size="22" fill="#e30613">08</text>
+  <text x="760" y="308" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">Verifikasi setelah</text>
+  <text x="760" y="334" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">restore</text>
+
+  <rect x="50" y="360" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="398" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Kenali firmware saat ini sebelum mengunduh paket.</text>
+</svg>

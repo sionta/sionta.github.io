@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" role="img" aria-label="Rantai kepercayaan Verified Boot: root of trust di hardware, bootloader, boot, lalu sistem dan vendor">
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#000"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="440" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">RANTAI VERIFIED BOOT</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="120" width="240" height="110" fill="#000"/>
+  <text x="68" y="168" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#fff">Root of trust</text>
+  <text x="68" y="200" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">di hardware</text>
+
+  <line x1="290" y1="175" x2="320" y2="175" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+
+  <rect x="320" y="120" width="180" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="338" y="183" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">Bootloader</text>
+
+  <line x1="500" y1="175" x2="530" y2="175" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+
+  <rect x="530" y="120" width="140" height="110" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="548" y="183" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">boot</text>
+
+  <line x1="670" y1="175" x2="700" y2="175" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+
+  <rect x="700" y="120" width="250" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="718" y="183" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Sistem dan vendor</text>
+
+  <rect x="50" y="320" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="358" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Unlock dan modifikasi mengubah status integritas perangkat.</text>
+</svg>

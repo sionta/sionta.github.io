@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 540" role="img" aria-label="Perbandingan boot sementara dan flash recovery: boot sementara tidak menulis partisi, flash recovery menulis image ke partisi target">
+  <rect width="1000" height="540" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">BOOT SEMENTARA VS FLASH RECOVERY</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="100" width="430" height="300" fill="#fff" stroke="#000" stroke-width="2"/>
+  <rect x="50" y="100" width="430" height="56" fill="#000"/>
+  <text x="74" y="138" font-family="Helvetica, Arial, sans-serif" font-size="24" letter-spacing="1" fill="#fff">BOOT SEMENTARA</text>
+  <text x="74" y="196" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Image dikirim dari komputer</text>
+  <text x="74" y="240" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Berjalan sekali saja</text>
+  <text x="74" y="284" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Partisi tidak ditulis</text>
+  <text x="74" y="328" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Reboot: recovery lama</text>
+
+  <rect x="520" y="100" width="430" height="300" fill="#fff" stroke="#000" stroke-width="2"/>
+  <rect x="520" y="100" width="430" height="56" fill="#000"/>
+  <text x="544" y="138" font-family="Helvetica, Arial, sans-serif" font-size="24" letter-spacing="1" fill="#fff">FLASH RECOVERY</text>
+  <text x="544" y="196" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Image ditulis ke partisi</text>
+  <text x="544" y="240" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Menggantikan recovery lama</text>
+  <text x="544" y="284" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Tersimpan setelah reboot</text>
+  <text x="544" y="328" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Reboot: recovery baru</text>
+
+  <rect x="50" y="440" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="478" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Boot sementara untuk menguji; flash mengubah partisi.</text>
+</svg>

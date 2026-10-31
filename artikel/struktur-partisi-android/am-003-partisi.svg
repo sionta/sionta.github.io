@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" role="img" aria-label="Layout partisi konseptual: boot, init_boot, vendor_boot, recovery, super, dan userdata; sub-partisi di dalam super">
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#000"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="620" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">LAYOUT PARTISI, KONSEPTUAL</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <text x="50" y="112" font-family="Consolas, monospace" font-size="20" letter-spacing="2" fill="#000">PENYIMPANAN</text>
+  <rect x="50" y="125" width="280" height="60" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="165" font-family="Consolas, monospace" font-size="28" fill="#000">boot</text>
+  <rect x="50" y="197" width="280" height="60" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="237" font-family="Consolas, monospace" font-size="28" fill="#000">init_boot</text>
+  <rect x="50" y="269" width="280" height="60" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="309" font-family="Consolas, monospace" font-size="28" fill="#000">vendor_boot</text>
+  <rect x="50" y="341" width="280" height="60" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="381" font-family="Consolas, monospace" font-size="28" fill="#000">recovery</text>
+  <rect x="50" y="413" width="280" height="60" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="70" y="453" font-family="Consolas, monospace" font-size="28" font-weight="700" fill="#000">super</text>
+  <rect x="50" y="485" width="280" height="60" fill="#000"/>
+  <text x="70" y="525" font-family="Consolas, monospace" font-size="28" fill="#fff">userdata</text>
+
+  <line x1="330" y1="443" x2="400" y2="443" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+
+  <rect x="400" y="125" width="290" height="300" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="418" y="160" font-family="Consolas, monospace" font-size="20" letter-spacing="2" fill="#000">DI DALAM super</text>
+  <rect x="418" y="180" width="254" height="50" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="436" y="214" font-family="Consolas, monospace" font-size="26" fill="#000">system</text>
+  <rect x="418" y="240" width="254" height="50" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="436" y="274" font-family="Consolas, monospace" font-size="26" fill="#000">vendor</text>
+  <rect x="418" y="300" width="254" height="50" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="436" y="334" font-family="Consolas, monospace" font-size="26" fill="#000">product</text>
+  <rect x="418" y="360" width="254" height="50" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="436" y="394" font-family="Consolas, monospace" font-size="26" fill="#000">odm</text>
+
+  <text x="730" y="168" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">Tidak semua partisi</text>
+  <text x="730" y="200" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">ada di setiap HP.</text>
+  <text x="730" y="262" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">A/B: akhiran</text>
+  <text x="730" y="294" font-family="Consolas, monospace" font-size="26" fill="#e30613">_a</text>
+  <text x="770" y="294" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">dan</text>
+  <text x="820" y="294" font-family="Consolas, monospace" font-size="26" fill="#e30613">_b</text>
+  <text x="730" y="356" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">Virtual A/B:</text>
+  <text x="730" y="388" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">snapshot.</text>
+
+  <rect x="50" y="566" width="900" height="44" fill="#000"/>
+  <text x="70" y="596" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Selalu cocokkan layout dengan model dan firmware.</text>
+</svg>

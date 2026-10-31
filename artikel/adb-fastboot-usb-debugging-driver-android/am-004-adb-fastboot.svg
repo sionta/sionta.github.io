@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" role="img" aria-label="Dua jalur komunikasi: ADB saat Android berjalan, Fastboot saat perangkat di mode bootloader">
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#000"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="560" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">ADB DAN FASTBOOT</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <text x="50" y="112" font-family="Consolas, monospace" font-size="20" letter-spacing="2" fill="#000">ANDROID BERJALAN</text>
+  <rect x="50" y="128" width="240" height="90" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="68" y="185" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#000">Android normal</text>
+  <line x1="290" y1="173" x2="330" y2="173" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+  <rect x="330" y="128" width="180" height="90" fill="#000"/>
+  <text x="352" y="185" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#fff">ADB</text>
+  <line x1="510" y1="173" x2="550" y2="173" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+  <rect x="550" y="128" width="400" height="90" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="568" y="185" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">Diagnosis, file, log</text>
+
+  <line x1="420" y1="218" x2="420" y2="378" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+  <text x="438" y="300" font-family="Consolas, monospace" font-size="22" fill="#000">adb reboot bootloader</text>
+
+  <text x="50" y="368" font-family="Consolas, monospace" font-size="20" letter-spacing="2" fill="#000">MODE BOOTLOADER</text>
+  <rect x="50" y="384" width="240" height="90" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="68" y="441" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#000">Bootloader</text>
+  <line x1="290" y1="429" x2="330" y2="429" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+  <rect x="330" y="384" width="180" height="90" fill="#000"/>
+  <text x="352" y="441" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#fff">Fastboot</text>
+  <line x1="510" y1="429" x2="550" y2="429" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+  <rect x="550" y="384" width="400" height="90" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="568" y="441" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">Cek perangkat dan flash</text>
+
+  <text x="50" y="530" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">adb devices tidak melihat perangkat di mode bootloader.</text>
+</svg>

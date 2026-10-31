@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" role="img" aria-label="Empat lapisan modifikasi Android: unlock bootloader, custom recovery, custom ROM, dan root">
+  <rect width="1000" height="560" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">EMPAT LAPISAN MODIFIKASI</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="100" width="420" height="160" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="140" font-family="Consolas, monospace" font-size="24" fill="#e30613">01</text>
+  <text x="72" y="196" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#000">Unlock bootloader</text>
+  <text x="72" y="234" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">Gerbang izin flashing.</text>
+
+  <rect x="530" y="100" width="420" height="160" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="552" y="140" font-family="Consolas, monospace" font-size="24" fill="#e30613">02</text>
+  <text x="552" y="196" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#000">Custom recovery</text>
+  <text x="552" y="234" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">Backup, restore, sideload.</text>
+
+  <rect x="50" y="290" width="420" height="160" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="72" y="330" font-family="Consolas, monospace" font-size="24" fill="#e30613">03</text>
+  <text x="72" y="386" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#000">Custom ROM</text>
+  <text x="72" y="424" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">Mengganti sistem operasi.</text>
+
+  <rect x="530" y="290" width="420" height="160" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="552" y="330" font-family="Consolas, monospace" font-size="24" fill="#e30613">04</text>
+  <text x="552" y="386" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#000">Root</text>
+  <text x="552" y="424" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">Hak akses di dalam Android.</text>
+
+  <rect x="50" y="490" width="900" height="48" fill="#000"/>
+  <text x="72" y="522" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Root bukan custom ROM. Custom ROM bisa tanpa root.</text>
+</svg>

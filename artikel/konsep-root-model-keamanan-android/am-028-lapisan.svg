@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 580" role="img" aria-label="Lima lapisan keamanan Android dan pengaruh root: isolasi aplikasi dan izin runtime dapat dilewati, SELinux tetap berlaku, status Verified Boot dan verdict Play Integrity berubah">
+  <rect width="1000" height="580" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">LAPISAN KEAMANAN DAN PENGARUH ROOT</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="100" width="620" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="144" font-family="Consolas, monospace" font-size="22" fill="#e30613">01</text>
+  <text x="118" y="132" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Isolasi aplikasi</text>
+  <text x="118" y="158" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">UID terpisah per aplikasi</text>
+  <rect x="690" y="100" width="260" height="70" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="714" y="142" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">Dapat dilewati</text>
+
+  <rect x="50" y="180" width="620" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="224" font-family="Consolas, monospace" font-size="22" fill="#e30613">02</text>
+  <text x="118" y="212" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Izin runtime</text>
+  <text x="118" y="238" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">Izin sensitif diminta saat berjalan</text>
+  <rect x="690" y="180" width="260" height="70" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="714" y="222" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">Dapat diubah</text>
+
+  <rect x="50" y="260" width="620" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="304" font-family="Consolas, monospace" font-size="22" fill="#e30613">03</text>
+  <text x="118" y="292" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">SELinux</text>
+  <text x="118" y="318" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">Membatasi proses, termasuk root</text>
+  <rect x="690" y="260" width="260" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="714" y="302" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">Tetap berlaku</text>
+
+  <rect x="50" y="340" width="620" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="384" font-family="Consolas, monospace" font-size="22" fill="#e30613">04</text>
+  <text x="118" y="372" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Verified Boot</text>
+  <text x="118" y="398" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">Memeriksa rantai boot</text>
+  <rect x="690" y="340" width="260" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="714" y="382" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">Status berubah</text>
+
+  <rect x="50" y="420" width="620" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="464" font-family="Consolas, monospace" font-size="22" fill="#e30613">05</text>
+  <text x="118" y="452" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Play Integrity</text>
+  <text x="118" y="478" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">Menilai kepercayaan perangkat</text>
+  <rect x="690" y="420" width="260" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="714" y="462" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">Verdict berubah</text>
+
+  <rect x="50" y="510" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="548" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Root membuka sebagian lapisan, bukan semuanya.</text>
+</svg>

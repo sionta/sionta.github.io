@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 460" role="img" aria-label="Tiga nama file recovery dan partisi targetnya: recovery.img ke partisi recovery, boot.img ke boot, vendor_boot.img ke vendor_boot">
+  <rect width="1000" height="460" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">NAMA FILE RECOVERY DAN PARTISI TARGET</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="110" width="280" height="80" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="159" font-family="Consolas, monospace" font-size="24" fill="#000">recovery.img</text>
+
+  <rect x="360" y="110" width="280" height="80" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="380" y="159" font-family="Consolas, monospace" font-size="24" fill="#000">boot.img</text>
+
+  <rect x="670" y="110" width="280" height="80" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="690" y="159" font-family="Consolas, monospace" font-size="24" fill="#000">vendor_boot.img</text>
+
+  <line x1="190" y1="194" x2="190" y2="226" stroke="#000" stroke-width="2"/>
+  <polygon points="190,236 184,224 196,224" fill="#000"/>
+  <line x1="500" y1="194" x2="500" y2="226" stroke="#000" stroke-width="2"/>
+  <polygon points="500,236 494,224 506,224" fill="#000"/>
+  <line x1="810" y1="194" x2="810" y2="226" stroke="#000" stroke-width="2"/>
+  <polygon points="810,236 804,224 816,224" fill="#000"/>
+
+  <rect x="50" y="240" width="280" height="80" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="70" y="289" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#000">partisi recovery</text>
+
+  <rect x="360" y="240" width="280" height="80" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="380" y="289" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#000">partisi boot</text>
+
+  <rect x="670" y="240" width="280" height="80" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="690" y="289" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#000">partisi vendor_boot</text>
+
+  <rect x="50" y="380" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="418" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Target bergantung pada layout perangkat, bukan nama file.</text>
+</svg>

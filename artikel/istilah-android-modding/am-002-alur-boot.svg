@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-label="Alur boot Android: bootloader memilih Android normal lewat kernel dan sistem, atau mode recovery">
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#000"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="600" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">ALUR BOOT SEDERHANA</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="245" width="240" height="110" fill="#000"/>
+  <text x="70" y="310" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#fff">Bootloader</text>
+
+  <path d="M290 300 H350 V155 H380" fill="none" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+  <path d="M290 300 H350 V470 H380" fill="none" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+
+  <rect x="380" y="110" width="200" height="90" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="398" y="152" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#000">Android</text>
+  <text x="398" y="184" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#000">normal</text>
+  <line x1="580" y1="155" x2="610" y2="155" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+  <rect x="610" y="110" width="150" height="90" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="628" y="168" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#000">Kernel</text>
+  <line x1="760" y1="155" x2="790" y2="155" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+  <rect x="790" y="110" width="160" height="90" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="808" y="168" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#000">Sistem</text>
+
+  <rect x="380" y="425" width="190" height="90" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="398" y="483" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#000">Recovery</text>
+  <line x1="570" y1="470" x2="600" y2="470" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+  <rect x="600" y="425" width="350" height="90" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="618" y="481" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">Factory reset, sideload</text>
+
+  <text x="50" y="578" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">Root adalah hak akses di dalam Android, bukan tahap boot.</text>
+</svg>

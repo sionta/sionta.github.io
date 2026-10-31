@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 570" role="img" aria-label="Sembilan langkah diagnosis first boot: tunggu sesuai batas waktu ROM, force reboot bila perlu, cek akses recovery, cek deteksi ADB, baca logcat, periksa ROM dan firmware, bandingkan laporan bug, jangan wipe atau flash ulang dulu, kembali ke kondisi aman">
+  <rect width="1000" height="570" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">URUTAN DIAGNOSIS FIRST BOOT</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="100" width="280" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="136" font-family="Consolas, monospace" font-size="22" fill="#e30613">01</text>
+  <text x="72" y="176" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Tunggu sesuai batas</text>
+  <text x="72" y="202" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">waktu ROM</text>
+
+  <rect x="360" y="100" width="280" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="382" y="136" font-family="Consolas, monospace" font-size="22" fill="#e30613">02</text>
+  <text x="382" y="176" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Force reboot bila</text>
+  <text x="382" y="202" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">diperlukan</text>
+
+  <rect x="670" y="100" width="280" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="692" y="136" font-family="Consolas, monospace" font-size="22" fill="#e30613">03</text>
+  <text x="692" y="176" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Cek akses</text>
+  <text x="692" y="202" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">recovery</text>
+
+  <rect x="50" y="230" width="280" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="266" font-family="Consolas, monospace" font-size="22" fill="#e30613">04</text>
+  <text x="72" y="306" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Cek deteksi ADB</text>
+
+  <rect x="360" y="230" width="280" height="110" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="382" y="266" font-family="Consolas, monospace" font-size="22" fill="#e30613">05</text>
+  <text x="382" y="306" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Baca logcat bila</text>
+  <text x="382" y="332" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">ADB tersedia</text>
+
+  <rect x="670" y="230" width="280" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="692" y="266" font-family="Consolas, monospace" font-size="22" fill="#e30613">06</text>
+  <text x="692" y="306" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Periksa ROM,</text>
+  <text x="692" y="332" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">firmware, GApps</text>
+
+  <rect x="50" y="360" width="280" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="396" font-family="Consolas, monospace" font-size="22" fill="#e30613">07</text>
+  <text x="72" y="436" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Bandingkan laporan</text>
+  <text x="72" y="462" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">bug ROM</text>
+
+  <rect x="360" y="360" width="280" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="382" y="396" font-family="Consolas, monospace" font-size="22" fill="#e30613">08</text>
+  <text x="382" y="436" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Jangan wipe atau</text>
+  <text x="382" y="462" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">flash ulang dulu</text>
+
+  <rect x="670" y="360" width="280" height="110" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="692" y="396" font-family="Consolas, monospace" font-size="22" fill="#e30613">09</text>
+  <text x="692" y="436" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Kembali ke kondisi</text>
+  <text x="692" y="462" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">aman bila perlu</text>
+
+  <rect x="50" y="490" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="528" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Kumpulkan informasi sebelum wipe atau flash ulang.</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 510" role="img" aria-label="Delapan langkah ADB sideload: backup data, masuk recovery, pilih apply update dari ADB, aktifkan mode sideload, cek adb devices, kirim paket ZIP, tunggu proses, lalu ikuti dokumentasi ROM">
+  <rect width="1000" height="510" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">ALUR ADB SIDELOAD</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="100" width="210" height="120" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">01</text>
+  <text x="70" y="186" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Backup data</text>
+
+  <rect x="280" y="100" width="210" height="120" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="300" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">02</text>
+  <text x="300" y="176" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Masuk</text>
+  <text x="300" y="206" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">recovery</text>
+
+  <rect x="510" y="100" width="210" height="120" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="530" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">03</text>
+  <text x="530" y="176" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Apply update</text>
+  <text x="530" y="206" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">dari ADB</text>
+
+  <rect x="740" y="100" width="210" height="120" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="760" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">04</text>
+  <text x="760" y="176" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Aktifkan</text>
+  <text x="760" y="206" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">mode sideload</text>
+
+  <rect x="50" y="260" width="210" height="120" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="294" font-family="Consolas, monospace" font-size="22" fill="#e30613">05</text>
+  <text x="70" y="336" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Cek</text>
+  <text x="70" y="366" font-family="Consolas, monospace" font-size="20" fill="#000">adb devices</text>
+
+  <rect x="280" y="260" width="210" height="120" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="300" y="294" font-family="Consolas, monospace" font-size="22" fill="#e30613">06</text>
+  <text x="300" y="336" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Kirim paket</text>
+  <text x="300" y="366" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">ZIP</text>
+
+  <rect x="510" y="260" width="210" height="120" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="530" y="294" font-family="Consolas, monospace" font-size="22" fill="#e30613">07</text>
+  <text x="530" y="336" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Tunggu</text>
+  <text x="530" y="366" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">proses selesai</text>
+
+  <rect x="740" y="260" width="210" height="120" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="760" y="294" font-family="Consolas, monospace" font-size="22" fill="#e30613">08</text>
+  <text x="760" y="336" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Ikuti langkah</text>
+  <text x="760" y="366" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">dokumentasi</text>
+
+  <rect x="50" y="430" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="468" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Pola umum, bukan prosedur universal.</text>
+</svg>

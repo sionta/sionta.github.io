@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" role="img" aria-label="Urutan add-on dalam instalasi ROM: ROM dipasang, lalu GApps, MicroG, atau add-on, baru kemudian boot pertama">
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#000"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="400" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">URUTAN ADD-ON DALAM INSTALASI ROM</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="110" width="270" height="140" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="146" font-family="Consolas, monospace" font-size="22" fill="#e30613">01</text>
+  <text x="72" y="196" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#000">ROM</text>
+  <text x="72" y="228" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#000">dipasang</text>
+
+  <line x1="320" y1="180" x2="355" y2="180" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+
+  <rect x="365" y="110" width="270" height="140" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="387" y="146" font-family="Consolas, monospace" font-size="22" fill="#e30613">02</text>
+  <text x="387" y="188" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">GApps, MicroG,</text>
+  <text x="387" y="216" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">atau add-on</text>
+
+  <line x1="635" y1="180" x2="670" y2="180" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+
+  <rect x="680" y="110" width="270" height="140" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="702" y="146" font-family="Consolas, monospace" font-size="22" fill="#e30613">03</text>
+  <text x="702" y="196" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#000">Boot pertama</text>
+
+  <rect x="50" y="310" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="348" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Add-on wajib dipasang sebelum boot pertama, bila diminta.</text>
+</svg>

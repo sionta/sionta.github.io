@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 410" role="img" aria-label="Spektrum brick dari perangkat yang masih terdeteksi ADB sampai perangkat yang tidak merespons sama sekali">
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#000"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="410" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">SPEKTRUM BRICK</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="120" width="212" height="140" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="155" font-family="Consolas, monospace" font-size="22" fill="#e30613">01</text>
+  <text x="70" y="205" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">Gagal boot,</text>
+  <text x="70" y="231" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">masih ADB</text>
+
+  <line x1="262" y1="190" x2="276" y2="190" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+
+  <rect x="280" y="120" width="212" height="140" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="300" y="155" font-family="Consolas, monospace" font-size="22" fill="#e30613">02</text>
+  <text x="300" y="205" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">Recovery jalan,</text>
+  <text x="300" y="231" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">sistem tidak</text>
+
+  <line x1="492" y1="190" x2="506" y2="190" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+
+  <rect x="510" y="120" width="212" height="140" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="530" y="155" font-family="Consolas, monospace" font-size="22" fill="#e30613">03</text>
+  <text x="530" y="205" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">Bootloader jalan,</text>
+  <text x="530" y="231" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">ADB tidak</text>
+
+  <line x1="722" y1="190" x2="736" y2="190" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+
+  <rect x="740" y="120" width="212" height="140" fill="#000"/>
+  <text x="760" y="155" font-family="Consolas, monospace" font-size="22" fill="#e30613">04</text>
+  <text x="760" y="205" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#fff">Tidak</text>
+  <text x="760" y="231" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#fff">merespons</text>
+
+  <rect x="50" y="320" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="358" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Semakin ke kanan, opsi pemulihan makin sedikit.</text>
+</svg>

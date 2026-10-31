@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 580" role="img" aria-label="Urutan boot Android dan gejala kegagalan pada tiap tahap: tombol power, bootloader, kernel, layanan sistem, layar kunci">
+  <rect width="1000" height="580" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">URUTAN BOOT DAN GEJALA KEGAGALAN</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="100" width="560" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="144" font-family="Consolas, monospace" font-size="22" fill="#e30613">01</text>
+  <text x="118" y="144" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Tombol power</text>
+  <rect x="630" y="100" width="320" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="652" y="144" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">Tidak ada respons</text>
+
+  <rect x="50" y="180" width="560" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="224" font-family="Consolas, monospace" font-size="22" fill="#e30613">02</text>
+  <text x="118" y="224" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Bootloader</text>
+  <rect x="630" y="180" width="320" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="652" y="224" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">Layar mati atau getar</text>
+
+  <rect x="50" y="260" width="560" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="304" font-family="Consolas, monospace" font-size="22" fill="#e30613">03</text>
+  <text x="118" y="304" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Kernel</text>
+  <rect x="630" y="260" width="320" height="70" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="652" y="304" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">Logo berhenti</text>
+
+  <rect x="50" y="340" width="560" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="384" font-family="Consolas, monospace" font-size="22" fill="#e30613">04</text>
+  <text x="118" y="384" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Layanan sistem</text>
+  <rect x="630" y="340" width="320" height="70" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="652" y="384" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">Animasi boot berulang</text>
+
+  <rect x="50" y="420" width="560" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="72" y="464" font-family="Consolas, monospace" font-size="22" fill="#e30613">05</text>
+  <text x="118" y="464" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Layar kunci</text>
+  <rect x="630" y="420" width="320" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="652" y="464" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">Restart setelah kunci</text>
+
+  <rect x="50" y="510" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="548" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Posisi berhenti menunjukkan lapisan yang bermasalah.</text>
+</svg>

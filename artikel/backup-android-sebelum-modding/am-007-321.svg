@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" role="img" aria-label="Prinsip 3-2-1: tiga salinan data, dua jenis media, satu salinan di luar perangkat">
+  <rect width="1000" height="500" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">PRINSIP 3-2-1</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="100" width="280" height="240" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="68" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">01</text>
+  <rect x="160" y="140" width="80" height="160" fill="#fff" stroke="#000" stroke-width="2"/>
+  <rect x="172" y="154" width="56" height="124" fill="#fff" stroke="#000" stroke-width="2"/>
+  <circle cx="200" cy="289" r="4" fill="#000"/>
+  <text x="68" y="322" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#000">Di HP</text>
+
+  <rect x="360" y="100" width="280" height="240" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="378" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">02</text>
+  <rect x="440" y="160" width="130" height="80" fill="#fff" stroke="#000" stroke-width="2"/>
+  <rect x="420" y="252" width="170" height="12" fill="#000"/>
+  <text x="378" y="322" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#000">Di komputer</text>
+
+  <rect x="670" y="100" width="280" height="240" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="688" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">03</text>
+  <rect x="740" y="205" width="135" height="45" fill="#fff" stroke="#000" stroke-width="2"/>
+  <circle cx="770" cy="205" r="30" fill="#fff" stroke="#000" stroke-width="2"/>
+  <circle cx="805" cy="188" r="40" fill="#fff" stroke="#000" stroke-width="2"/>
+  <circle cx="845" cy="208" r="30" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="688" y="322" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#000">Di cloud</text>
+
+  <rect x="50" y="380" width="900" height="60" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="70" y="418" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#000">3 salinan · 2 jenis media · 1 di luar perangkat</text>
+</svg>

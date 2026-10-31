@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 510" role="img" aria-label="Delapan langkah umum unlock bootloader: backup data, aktifkan Developer Options, aktifkan OEM unlocking, masuk mode bootloader, verifikasi Fastboot, jalankan perintah unlock vendor, konfirmasi di layar, lalu reset dan reboot">
+  <rect width="1000" height="510" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">ALUR UMUM UNLOCK BOOTLOADER</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="100" width="210" height="120" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">01</text>
+  <text x="70" y="196" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#000">Backup data</text>
+
+  <rect x="280" y="100" width="210" height="120" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="300" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">02</text>
+  <text x="300" y="166" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Aktifkan</text>
+  <text x="300" y="190" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Developer</text>
+  <text x="300" y="214" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Options</text>
+
+  <rect x="510" y="100" width="210" height="120" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="530" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">03</text>
+  <text x="530" y="174" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Aktifkan</text>
+  <text x="530" y="204" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">OEM unlocking</text>
+
+  <rect x="740" y="100" width="210" height="120" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="760" y="134" font-family="Consolas, monospace" font-size="22" fill="#e30613">04</text>
+  <text x="760" y="174" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Masuk mode</text>
+  <text x="760" y="204" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">bootloader</text>
+
+  <rect x="50" y="260" width="210" height="120" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="70" y="294" font-family="Consolas, monospace" font-size="22" fill="#e30613">05</text>
+  <text x="70" y="334" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Verifikasi</text>
+  <text x="70" y="364" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Fastboot</text>
+
+  <rect x="280" y="260" width="210" height="120" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="300" y="294" font-family="Consolas, monospace" font-size="22" fill="#e30613">06</text>
+  <text x="300" y="326" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">Jalankan</text>
+  <text x="300" y="350" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">perintah unlock</text>
+  <text x="300" y="374" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">vendor</text>
+
+  <rect x="510" y="260" width="210" height="120" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="530" y="294" font-family="Consolas, monospace" font-size="22" fill="#e30613">07</text>
+  <text x="530" y="334" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Konfirmasi</text>
+  <text x="530" y="364" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">di layar</text>
+
+  <rect x="740" y="260" width="210" height="120" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="760" y="294" font-family="Consolas, monospace" font-size="22" fill="#e30613">08</text>
+  <text x="760" y="334" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">Reset dan</text>
+  <text x="760" y="364" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">reboot</text>
+
+  <rect x="50" y="430" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="468" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Kerangka konseptual, bukan perintah universal.</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 570" role="img" aria-label="Dua daftar keputusan: lanjutkan bila codename, ROM, maintainer, firmware, recovery, backup, dan dokumentasi sesuai; berhenti bila syarat itu tidak jelas">
+  <rect width="1000" height="570" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">DUA ARAH KEPUTUSAN</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="50" y="100" width="430" height="320" fill="#fff" stroke="#000" stroke-width="2"/>
+  <rect x="50" y="100" width="430" height="56" fill="#ffd400"/>
+  <text x="74" y="138" font-family="Helvetica, Arial, sans-serif" font-size="24" letter-spacing="1" fill="#000">LANJUTKAN</text>
+  <text x="74" y="196" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Codename sesuai</text>
+  <text x="74" y="232" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">ROM resmi aktif</text>
+  <text x="74" y="268" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Maintainer aktif</text>
+  <text x="74" y="304" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Firmware dasar tersedia</text>
+  <text x="74" y="340" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Recovery resmi tersedia</text>
+  <text x="74" y="376" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Backup selesai</text>
+  <text x="74" y="412" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Dokumentasi jelas</text>
+
+  <rect x="520" y="100" width="430" height="320" fill="#fff" stroke="#000" stroke-width="2"/>
+  <rect x="520" y="100" width="430" height="56" fill="#e30613"/>
+  <text x="544" y="138" font-family="Helvetica, Arial, sans-serif" font-size="24" letter-spacing="1" fill="#fff">BERHENTI</text>
+  <text x="544" y="196" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Codename tidak jelas</text>
+  <text x="544" y="232" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">ROM tidak resmi</text>
+  <text x="544" y="268" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Maintainer tidak aktif</text>
+  <text x="544" y="304" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Firmware tidak tersedia</text>
+  <text x="544" y="340" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Recovery tidak kompatibel</text>
+  <text x="544" y="376" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Backup belum ada</text>
+  <text x="544" y="412" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Aplikasi penting tidak kompatibel</text>
+
+  <rect x="50" y="490" width="900" height="60" fill="#e30613"/>
+  <text x="70" y="528" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#fff">Periksa semua syarat sebelum melanjutkan.</text>
+</svg>
