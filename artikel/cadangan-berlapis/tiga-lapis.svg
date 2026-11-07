@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" role="img" aria-label="Tiga lapis cadangan: salinan di perangkat menutup salah hapus dengan waktu pulih menit, salinan di luar perangkat menutup perangkat hilang atau rusak dengan waktu pulih jam, dan salinan di luar lokasi menutup kebakaran atau pencurian dengan waktu pulih hari">
+  <rect width="1000" height="620" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">TIGA LAPIS, TIGA KEGAGALAN BERBEDA</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <text x="50" y="100" font-family="Consolas, monospace" font-size="12" letter-spacing="1.2" fill="#000">LAPIS</text>
+  <text x="420" y="100" font-family="Consolas, monospace" font-size="12" letter-spacing="1.2" fill="#000">APA YANG DITUTUP</text>
+  <text x="740" y="100" font-family="Consolas, monospace" font-size="12" letter-spacing="1.2" fill="#000">RPO / RTO</text>
+  <line x1="50" y1="112" x2="950" y2="112" stroke="#000" stroke-width="1"/>
+
+  <text x="50" y="164" font-family="Consolas, monospace" font-size="30" fill="#e30613">01</text>
+  <text x="110" y="162" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Salinan di perangkat</text>
+  <text x="110" y="188" font-family="Consolas, monospace" font-size="13" fill="#000">kartu memori atau USB OTG</text>
+  <text x="420" y="162" font-family="Consolas, monospace" font-size="13" fill="#000">salah hapus, pembaruan gagal</text>
+  <text x="420" y="184" font-family="Consolas, monospace" font-size="13" fill="#000">hanya selama ponsel masih hidup</text>
+  <text x="740" y="162" font-family="Consolas, monospace" font-size="13" fill="#000">hilang: menit</text>
+  <text x="740" y="184" font-family="Consolas, monospace" font-size="13" fill="#000">pulih: menit</text>
+  <line x1="50" y1="232" x2="950" y2="232" stroke="#000" stroke-width="1"/>
+
+  <text x="50" y="276" font-family="Consolas, monospace" font-size="30" fill="#e30613">02</text>
+  <text x="110" y="274" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Salinan di luar perangkat</text>
+  <text x="110" y="300" font-family="Consolas, monospace" font-size="13" fill="#000">komputer, disk eksternal, NAS</text>
+  <text x="420" y="274" font-family="Consolas, monospace" font-size="13" fill="#000">ponsel hilang, rusak, atau mati</text>
+  <text x="420" y="296" font-family="Consolas, monospace" font-size="13" fill="#000">tidak menolong bila rumah ikut hilang</text>
+  <text x="740" y="274" font-family="Consolas, monospace" font-size="13" fill="#000">hilang: jam</text>
+  <text x="740" y="296" font-family="Consolas, monospace" font-size="13" fill="#000">pulih: jam</text>
+  <line x1="50" y1="344" x2="950" y2="344" stroke="#000" stroke-width="1"/>
+
+  <text x="50" y="388" font-family="Consolas, monospace" font-size="30" fill="#e30613">03</text>
+  <text x="110" y="386" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#000">Salinan di luar lokasi</text>
+  <text x="110" y="412" font-family="Consolas, monospace" font-size="13" fill="#000">awan, atau disk yang dititipkan</text>
+  <text x="420" y="386" font-family="Consolas, monospace" font-size="13" fill="#000">kebakaran, pencurian, malware</text>
+  <text x="420" y="408" font-family="Consolas, monospace" font-size="13" fill="#000">satu kejadian mengenai semua salinan</text>
+  <text x="740" y="386" font-family="Consolas, monospace" font-size="13" fill="#000">hilang: hari</text>
+  <text x="740" y="408" font-family="Consolas, monospace" font-size="13" fill="#000">pulih: hari</text>
+  <line x1="50" y1="456" x2="950" y2="456" stroke="#000" stroke-width="1"/>
+
+  <rect x="50" y="480" width="900" height="62" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="74" y="519" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#000">Lapis ketiga harus di luar rumah dan tidak selalu tersambung.</text>
+
+  <rect x="50" y="558" width="900" height="44" fill="#e30613"/>
+  <text x="70" y="588" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">Tiga salinan di satu meja tetap satu lapis.</text>
+</svg>

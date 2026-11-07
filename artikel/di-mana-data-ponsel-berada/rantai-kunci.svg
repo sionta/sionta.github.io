@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 660" role="img" aria-label="Rantai kunci dari PIN sampai berkas: PIN dilewatkan ke fungsi scrypt, diperiksa dengan pembatasan percobaan di dalam TEE, lalu membuka synthetic password yang menurunkan kunci CE untuk membaca berkas">
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#000"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="660" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">RANTAI KUNCI, DARI PIN SAMPAI BERKAS</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="330" y="100" width="340" height="64" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="350" y="128" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">PIN, pola, atau sandi</text>
+  <text x="350" y="150" font-family="Consolas, monospace" font-size="13" fill="#000">yang Anda ketik</text>
+
+  <line x1="500" y1="164" x2="500" y2="196" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+  <text x="514" y="186" font-family="Consolas, monospace" font-size="13" fill="#000">scrypt, sekitar 25 ms</text>
+
+  <rect x="250" y="200" width="500" height="190" fill="#fff" stroke="#000" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="732" y="222" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#e30613">batas TEE</text>
+
+  <rect x="330" y="212" width="340" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="350" y="244" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">Weaver / Gatekeeper</text>
+  <text x="350" y="268" font-family="Consolas, monospace" font-size="13" fill="#e30613">pembatasan percobaan</text>
+
+  <line x1="500" y1="282" x2="500" y2="292" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+
+  <rect x="330" y="296" width="340" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="350" y="328" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">synthetic password</text>
+  <text x="350" y="352" font-family="Consolas, monospace" font-size="13" fill="#000">menurunkan kunci CE</text>
+
+  <line x1="500" y1="390" x2="500" y2="426" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+  <text x="514" y="414" font-family="Consolas, monospace" font-size="13" fill="#000">kunci CE</text>
+
+  <rect x="280" y="430" width="440" height="70" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="300" y="460" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#000">berkas di /data</text>
+  <text x="300" y="484" font-family="Consolas, monospace" font-size="13" fill="#000">baru sekarang terbaca</text>
+
+  <rect x="50" y="530" width="900" height="62" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="74" y="569" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#000">Rahasia ini tidak pernah keluar dari perangkat.</text>
+
+  <rect x="50" y="608" width="900" height="44" fill="#e30613"/>
+  <text x="70" y="638" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">Chip dipindah ke papan lain, kuncinya hilang.</text>
+</svg>

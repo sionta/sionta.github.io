@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-label="Tiga lapis perangkat: sistem dan aplikasi, kunci di dalam TEE, serta chip penyimpanan; OTA penuh dan factory image berhenti di sistem, EDL dan reparasi papan berhenti di jalur menuju kunci, sedangkan chip-off hanya menghasilkan byte terenkripsi">
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#000"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="600" fill="#fff"/>
+  <text x="50" y="52" font-family="Consolas, monospace" font-size="22" letter-spacing="2" fill="#000">DI MANA SETIAP TINDAKAN BERHENTI</text>
+  <line x1="50" y1="72" x2="950" y2="72" stroke="#000" stroke-width="4"/>
+
+  <rect x="60" y="110" width="320" height="86" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="80" y="144" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">sistem dan aplikasi</text>
+  <text x="80" y="170" font-family="Consolas, monospace" font-size="13" fill="#000">yang terlihat di layar</text>
+
+  <rect x="60" y="212" width="320" height="86" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="80" y="246" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">kunci, di dalam TEE</text>
+  <text x="80" y="272" font-family="Consolas, monospace" font-size="13" fill="#000">menempel pada SoC</text>
+
+  <rect x="60" y="314" width="320" height="86" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="80" y="348" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#000">chip penyimpanan</text>
+  <text x="80" y="374" font-family="Consolas, monospace" font-size="13" fill="#000">eMMC atau UFS</text>
+
+  <line x1="430" y1="153" x2="400" y2="153" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+  <text x="446" y="147" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">OTA penuh, factory image</text>
+  <text x="446" y="170" font-family="Consolas, monospace" font-size="13" fill="#000">berhenti di sistem</text>
+
+  <line x1="430" y1="255" x2="400" y2="255" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+  <text x="446" y="249" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">EDL, JTAG, reparasi papan</text>
+  <text x="446" y="272" font-family="Consolas, monospace" font-size="13" fill="#000">menembus jalur menuju kunci</text>
+
+  <line x1="430" y1="357" x2="400" y2="357" stroke="#000" stroke-width="2" marker-end="url(#ar)"/>
+  <text x="446" y="351" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">chip-off dan ISP</text>
+  <text x="446" y="374" font-family="Consolas, monospace" font-size="13" fill="#000">berhenti di byte terenkripsi</text>
+
+  <rect x="50" y="450" width="900" height="62" fill="#ffd400" stroke="#000" stroke-width="2"/>
+  <text x="74" y="489" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#000">Membaca chip tidak sama dengan membuka isinya.</text>
+
+  <rect x="50" y="528" width="900" height="44" fill="#e30613"/>
+  <text x="70" y="558" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff">Kunci hidup di SoC, bukan di chip penyimpanan.</text>
+</svg>
